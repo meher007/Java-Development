@@ -1,0 +1,13 @@
+M523,CurtainStockItem,Cotton Mix,Pencil Pleat,1000,Blue,John Lewis,Small,7,,
+M524,CurtainStockItem,Polyester,Eyelet,1200,Green,Ikea,Large,10,,
+M525,CurtainStockItem,Fabric,Vintage,1500,Red,Zara,Medium,4,,
+M526,CurtainStockItem,Cotton Mix,English Country,1100,Yellow,Tesco,Medium,6,,
+M527,CurtainStockItem,Fabric,Traditional,1000,Blue,Next,Large,4,,
+M528,CurtainStockItem,Cotton,Pencil Pleat,900,Voilet,Argos,Small,12,,
+M529,CurtainStockItem,Polyester Mix,Elegant,1200,Blue,Ikea,Large,4,,
+M530,CurtainStockItem,Polyester,Eyelet,1400,Green,Zara,Large,3,,
+M540,Sub_CurtainStockItem1,Cotton Mix,pencil Pleat1100,1100,Voilet,Ikea,Medium,2,5,A++
+M550,Sub_CurtainStockItem2,Polyester Mix,Elegant,1200,Blue,Zara,Large,5,Boy,Yes
+M531 ,CurtainStockItem,Cotton ,Traditional,1500,Red,john Lewis,Small,5,,
+M541,Sub_CurtainStockItem1,Fabric,Eyelet,800,White,Next,Small,10,10,B++
+M542,Sub_CurtainStockItem1,cotton,English Country,900,Red,Ikea,Medium,9,3,A++
